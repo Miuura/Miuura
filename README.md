@@ -1,45 +1,70 @@
 <a href="https://valentinohartanto.com">
-  <img src="./assets/header.svg" alt="Valentino Hartanto — Software Engineer. Native Apple apps, on-device intelligence, and full-stack web." width="100%" />
+  <img src="./assets/hero.svg" width="100%" alt="Valentino Hartanto — Software Engineer. Native experiences. Intelligent by design." />
 </a>
 
 <p align="center">
-  <a href="https://valentinohartanto.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/valentino-hartanto/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://valentinohartanto.com/notes">Notes</a>
+  <a href="https://valentinohartanto.com"><kbd>　↗ EXPLORE PORTFOLIO　</kbd></a> &nbsp;
+  <a href="https://www.linkedin.com/in/valentino-hartanto/"><kbd>　LINKEDIN　</kbd></a> &nbsp;
+  <a href="https://valentinohartanto.com/notes"><kbd>　READ MY NOTES　</kbd></a>
 </p>
 
-### Hello, I'm Valentino.
+<br />
 
-I build native Apple apps, on-device machine learning, and full-stack web products. I enjoy turning complex systems into interfaces that feel clear and useful.
+### From research to real products.
 
-Informatics graduate from **Telkom University** · **Apple Developer Academy @ Infinite Learning**, 2026.
+I'm **Valentino**, a software engineer building across **Apple platforms, on-device ML, and the web**. I turn experiments into useful products, with care for both the systems underneath and the people using them.
 
-### Selected work
+🎓 **Informatics, Telkom University** &nbsp; / &nbsp; 🍎 **Apple Developer Academy @ Infinite Learning · 2026**
 
-| Project | What it does | Built with |
+<br />
+
+## Selected work
+
+A few things I've built, from native interactions to intelligence on Apple silicon.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/Miuura/hybrid-vit-coreml"><img src="./assets/coreml.svg" width="100%" alt="Hybrid ViT to Core ML — PyTorch to Core ML conversion, numerical validation, and Apple Neural Engine benchmarks. View repository." /></a></td>
+    <td width="50%"><a href="https://github.com/Miuura/Kinetiq"><img src="./assets/kinetiq.svg" width="100%" alt="Kinetiq — an iOS digital wellness app that turns screen-time breaks into walking sessions. View repository." /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://valentinohartanto.com/work/waverd"><img src="./assets/waverd.svg" width="100%" alt="Waverd — on-device presentation coaching with WhisperKit, filler-word detection, and Keynote analytics. View case study." /></a></td>
+    <td width="50%"><a href="https://valentinohartanto.com/work/tutorin"><img src="./assets/tutorin.svg" width="100%" alt="TutorIn — a peer tutoring marketplace built with React, Express, and MySQL. View case study." /></a></td>
+  </tr>
+</table>
+
+↳ Also exploring the softer side of software with **[Postbox, a letter-inspired journaling app](https://valentinohartanto.com/work/postbox)**.
+
+<br />
+
+## Tools behind the work
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple,python,pytorch,ts,react,nextjs,nodejs,express,mysql&amp;theme=dark&amp;perline=10" alt="Swift, Apple platforms, Python, PyTorch, TypeScript, React, Next.js, Node.js, Express, and MySQL" />
+</p>
+
+| Native experiences | Applied intelligence | Connected products |
 | :--- | :--- | :--- |
-| **[Hybrid ViT → Core ML](https://github.com/Miuura/hybrid-vit-coreml)** | Converts hybrid CNN–Transformer models from PyTorch to Core ML, with numerical validation and Apple Neural Engine benchmarks. | Python · PyTorch · Core ML |
-| **[Kinetiq](https://github.com/Miuura/Kinetiq)** | Turns screen-time breaks into walking sessions through a native iOS experience. | Swift · SwiftUI · Core Motion |
-| **[Waverd](https://valentinohartanto.com/work/waverd)** | A presentation coach with on-device speech transcription, filler-word detection, and Keynote-synced analytics. | Swift · WhisperKit · Core ML |
-| **[TutorIn](https://valentinohartanto.com/work/tutorin)** | Connects student mentors and learners through study groups, payments, and reviews. | React · Express · MySQL |
+| SwiftUI · SwiftData · Core Motion | Core ML · Computer Vision · scikit-learn | TypeScript · React · Next.js · Express |
+| iOS & macOS | On-device inference & model optimization | APIs, databases & full-stack applications |
 
-More product work: **[Postbox — a letter-inspired journaling app](https://valentinohartanto.com/work/postbox)**.
+<br />
 
-### Toolkit
+## Research & field notes
 
-**Apple** &nbsp; `Swift` `SwiftUI` `SwiftData` `Core ML` `Core Motion`  
-**Machine learning** &nbsp; `Python` `PyTorch` `Computer Vision` `scikit-learn`  
-**Web** &nbsp; `TypeScript` `React` `Next.js` `Node.js` `MySQL`
+**01 / Computer vision**  
+[Hybrid CNN–Transformer optimization with Particle Swarm Optimization](https://ieeexplore.ieee.org/abstract/document/11327313) — skin lesion classification.
 
-<details>
-<summary><b>Research & writing</b></summary>
+**02 / Deep learning**  
+[EfficientNetV2 with Particle Swarm Optimization](https://doi.org/10.32409/jikstik.24.3.3835) — wheat disease classification.
 
-- [Hybrid CNN–Transformer optimization with Particle Swarm Optimization](https://ieeexplore.ieee.org/abstract/document/11327313) — skin lesion classification.
-- [EfficientNetV2 with Particle Swarm Optimization](https://doi.org/10.32409/jikstik.24.3.3835) — wheat disease classification.
-- [Notes on native products, on-device ML, and experiments](https://valentinohartanto.com/notes).
+**03 / Behind the interface**  
+[Notes on native products, on-device ML, and experiments →](https://valentinohartanto.com/notes)
 
-</details>
+<br />
 
----
+<a href="https://www.linkedin.com/in/valentino-hartanto/">
+  <img src="./assets/connect.svg" width="100%" alt="Let's build something thoughtful. Connect with Valentino Hartanto on LinkedIn." />
+</a>
 
-Open to conversations about **Apple platforms, applied ML, and thoughtful software**. [Let's connect on LinkedIn →](https://www.linkedin.com/in/valentino-hartanto/)
+<p align="center"><sub>Built with curiosity. Refined through iteration. &nbsp; / &nbsp; <a href="https://valentinohartanto.com">valentinohartanto.com</a></sub></p>
