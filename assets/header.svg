@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Valentino Hartanto — Software Engineer</title>
+  <desc id="desc">Native Apple apps, on-device intelligence, and full-stack web. A minimal navy banner with teal architectural linework.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10202c"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#4fd1b5" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#4fd1b5" stop-opacity=".65"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#c9d1d9" opacity=".09"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect x="48" y="52" width="32" height="3" rx="1.5" fill="#5ed8bc"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="48" y="90" fill="#8fa8b8" font-size="14" font-weight="600" letter-spacing="3">VALENTINO HARTANTO</text>
+    <text x="45" y="159" fill="#f0f6fc" font-size="52" font-weight="700" letter-spacing="-1.7">Software engineer.</text>
+    <text x="48" y="202" fill="#a7bac8" font-size="20">Native apps. Intelligent systems. Thoughtful interfaces.</text>
+    <text x="48" y="269" fill="#5ed8bc" font-size="13" font-weight="600" letter-spacing="1.7">APPLE PLATFORMS  /  APPLIED ML  /  WEB</text>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5">
+    <rect x="875" y="63" width="164" height="164" rx="32" transform="rotate(-16 957 145)"/>
+    <rect x="924" y="99" width="164" height="164" rx="32" transform="rotate(12 1006 181)"/>
+    <path d="M849 181h85l23-29 26 57 26-42h102" stroke="#5ed8bc" stroke-opacity=".65" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="849" cy="181" r="4" fill="#5ed8bc"/>
+  <circle cx="1111" cy="167" r="4" fill="#5ed8bc"/>
+</svg>
